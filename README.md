@@ -1,2 +1,3 @@
 # hello-world
-just a test
+
+Hi,this is my fist programme in GitHub
